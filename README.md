@@ -1,4 +1,4 @@
-# -Dashboard-de-Vendas-do-Xbox-com-Excel-DIO
+# Dashboard-de-Vendas-do-Xbox-com-Excel-DIO
 
 🎮 Xbox Game Pass Subscriptions Sales Dashboard
 🎯 Objetivo do Projeto
